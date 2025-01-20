@@ -43,7 +43,7 @@
   <a href="https://www.linkedin.com/in/luan-moraes-583321160/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://luanmoraes17.github.io/portifolio.github.io/" target="_blank">
+  <a href="https://luanmoraes17.github.io/portifolio.2.github.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codesandbox/default.svg" width="52" height="40" alt="codesandbox logo"  />
   </a>
 </div>
