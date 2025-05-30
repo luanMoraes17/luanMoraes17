@@ -1,10 +1,6 @@
-<p align="left">Olá, sou o Luan e seja bem-vindo ao meu mundo da Tecnologia</p>
-
-###
+<p align="center">Olá, sou o Luan e seja bem-vindo ao meu mundo da Tecnologia</p>
 
 
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
